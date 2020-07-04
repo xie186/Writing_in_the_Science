@@ -96,7 +96,7 @@ Shorten this sentence to just six words by removing unnecessary words (make sure
 
 Chemistry majors are generally a very creative and highly energetic group.
 
-Chemistry is very creative and energetic
+Chemistry is creative and energetic
 
 13. Question 13
 
@@ -106,10 +106,7 @@ Rewrite the following sentence for brevity:
 
 The aim of this paper is to provide a review of the basic principles of quantum physics.
 
-This paper is to review the basic principles of quantum physics.
-
-
-> Answer: Your answer cannot be more than 10000 characters.
+> Answer: This paper reviews quantum physics
 
 14. Question 14
 
@@ -117,10 +114,8 @@ Revise the following sentence for clarity and brevity:
 
 One example of laser interferometry in action is it can be used for the measurement of the drift of a micro cantilever over time.
 
-One example of laser interferometry in action is it can measure of the drift of a micro cantilever over time.
-
-
-> Answer: Your answer cannot be more than 10000 characters.
+> Answer: Laser interferometry can be used to measure the drift of a micro cantilever.
+For example, laser interferometry can be used to measure the drift of a micro cantilever.
 
 15. Question 15
 
@@ -128,9 +123,9 @@ Revise the following sentence for clarity and brevity:
 
 Many women with BRCA mutations take prophylactic steps towards reducing their risk of ever getting the cancer because early detection is not perfect.
 
-Many women with BRCA mutations take prophylactic steps to reduce the risk of  cancer because early detection is inaccurate. 
+> Answer: Many women with BRCA mutations opt for prophylaxis, because early detection is imperfect.
 
-Your answer cannot be more than 10000 characters.
+Women with BRCA mutations opt for prophylaxis, because early detection is imperfect.
 
 16. Question 16
 
